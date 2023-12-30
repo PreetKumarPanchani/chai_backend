@@ -5,3 +5,5 @@
 *.env
 .env
 .env.*
+
+mongodb+srv://<username>:<password>@cluster0.rmn5p8f.mongodb.net/
